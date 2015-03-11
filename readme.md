@@ -3,7 +3,8 @@ Reactive Pairs
 
 Reactive Pairs is a game that is more often called
 [concentration or memory](http://en.wikipedia.org/wiki/Concentration_(game))
-and was primarily built to learn a specific set of web development technologies.
+and was primarily built to learn a specific set of web development technologies
+and techniques.
 
 ## The game
 
@@ -34,8 +35,10 @@ Some of the technologies used in this app are:
 
 I have a larger side project I intend to rebuild using different technologies that
 its using today. I'm considering some of these (and some new techniques) and want
-to try them out in an environment that has less risk and complexity. I'm interested
-in applying [isomorphic JavaScript](http://isomorphic.net/) by using React on the
-server and the client. I have quite a bit of experience with [Meteor](http://meteor.com)
-and want to see what the alternatives feel like. I'm also in building a UI that uses Google's
+to try them out in an environment that has less risk and complexity.
+
+I'm interested in applying [isomorphic JavaScript](http://isomorphic.net/) by
+using React on the server and the client. I have quite a bit of experience with
+[Meteor](http://meteor.com) and want to see what the alternatives feel like.
+I'm also in building a UI that uses Google's
 [Material Design](http://www.google.com/design/spec/material-design/introduction.html).
