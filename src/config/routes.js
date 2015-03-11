@@ -20,6 +20,11 @@
  * http://sailsjs.org/#/documentation/concepts/Routes/RouteTargetSyntax.html
  */
 
+var JSX = require("node-jsx").install();
+var React = require('react/addons');
+var AppContainer = React.createFactory(require('../app/components/app-container'));
+var reactOutput = React.renderToString(AppContainer({}));
+
 module.exports.routes = {
 
   /***************************************************************************
@@ -33,7 +38,10 @@ module.exports.routes = {
   ***************************************************************************/
 
   '/': {
-    view: 'homepage'
+    view: 'homepage',
+    locals: {
+      reactOutput: reactOutput
+    }
   },
 
   /***************************************************************************
