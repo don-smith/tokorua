@@ -1,7 +1,7 @@
-Reactive Pairs
+Tokorua
 =======================
 
-Reactive Pairs is a game that is more often called
+Tokorua, Maori for 'pairs', is a game that is often called
 [concentration or memory](http://en.wikipedia.org/wiki/Concentration_(game))
 and was primarily built to learn a specific set of web development technologies
 and techniques.
