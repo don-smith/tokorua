@@ -29,7 +29,6 @@ Some of the technologies used in this app are:
 * Builds
   * [Gulp.js](http://gulpjs.com)
   * [Browserify](http://browserify.org)
-  * Maybe [Yeoman](http://yeoman.io)
 
 ## The rationale and approach
 
