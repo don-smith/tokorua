@@ -1,5 +1,5 @@
 {
-  "name": "reactive-pairs",
+  "name": "tokorua",
   "private": true,
   "version": "0.0.1",
   "description": "A traditional game built to learn some web development tech.",
@@ -9,7 +9,7 @@
     "game",
     "concentration"
   ],
-  "homepage": "http://reactive-pairs.azurewebsites.net",
+  "homepage": "http://tokorua.azurewebsites.net",
   "dependencies": {
     "browserify": "^9.0.3",
     "ejs": "~0.8.4",
@@ -56,7 +56,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/locksmithdon/reactive-pairs.git"
+    "url": "git://github.com/locksmithdon/tokorua.git"
   },
   "author": {
     "name": "Don Smith",
